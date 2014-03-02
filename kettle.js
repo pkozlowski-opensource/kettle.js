@@ -1,6 +1,6 @@
 import {Electricity} from 'electricity.js/electricity';
 
-class Kettle {
+export class Kettle {
 
   constructor(electricity: Electricity) {
     this.electricity = electricity;

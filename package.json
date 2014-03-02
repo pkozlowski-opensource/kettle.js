@@ -1,11 +1,11 @@
 {
   "name": "kettle.js",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "repository": {
     "type": "git",
     "url": "git://github.com/pkozlowski-opensource/kettle.js.git"
   },
   "dependencies": {
-    "electricity.js": "0.0.3"
+    "electricity.js": "0.0.4"
   }
 }
